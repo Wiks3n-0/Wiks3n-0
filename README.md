@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Wiks3n-0 :)
 - 🌱 I’m currently learning C++, cybersecurity, UE4. 
-- 💞️ I’m looking to collaborate on Creating game in UE4/5, any cybersecurity activity 
+- 💞️ I’m looking to collaborate on Creating game in UE4/5.
 - 📫 How to reach me ? Mail: wikniw3@gmail.com || wiktor@niwicki.eu
